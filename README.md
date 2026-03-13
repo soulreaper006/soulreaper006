@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Projects<br>👯 I’m looking to collaborate on github <br>🤝 I’m looking for help with my projectes and to polish my skills<br>🌱 I’m currently learning java<br>💬 Ask me about c,c++<br>⚡ Fun fact i can't dance
+🔭 I’m currently working on Projects<br>👯 I’m looking to collaborate on github <br>🤝 I’m looking for help with my projectes and to polish my skills<br>🌱 I’m currently learning java<br>💬 Ask me about C , C++<br>⚡ Fun fact i can't dance
 
 
 ## 🌐 Socials:
